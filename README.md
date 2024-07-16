@@ -1,4 +1,4 @@
-E-commerce App
+E-commerce App Now
 
 ## Old Version
 - https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main
